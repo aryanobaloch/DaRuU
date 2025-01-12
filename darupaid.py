@@ -148,7 +148,7 @@ def approval():
       print('You Have to Take Approval first')
       print('Free wale dur rahe :)')
       print('\33[1;37m----------------------------------------------')
-      print ('Tool Owner: DEVI -')
+      print ('Tool Owner: DARU -')
       print("Your Token : "+id)
       input('IF U WANT TO BUY THEN PRESS ENTER ')
       tks = ('Hello%20DARU%20!%20Please%20Approve%20My%20Token%20My%20Token%20Is%20:%20'+id)
